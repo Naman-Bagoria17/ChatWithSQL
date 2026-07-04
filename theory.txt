@@ -1,0 +1,2 @@
+-------What is SQLite?--------
+SQLite is a lightweight, serverless relational database management system (RDBMS) that stores the entire database in a single file on disk. Unlike databases such as MySQL or PostgreSQL, it does not require a separate database server to run. It is fast, easy to set up, and commonly used in desktop applications, mobile apps, embedded systems, and small to medium-sized projects for storing and managing structured data using SQL queries.
