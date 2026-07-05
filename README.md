@@ -8,6 +8,8 @@
 
 An end-to-end Text-to-SQL application that enables users to interact with SQL databases using natural language. The application converts user questions into SQL queries using a Large Language Model (LLM), executes them on the database, and returns the results in a user-friendly conversational format. 
 
+🚀 **Live Deployed App:** [chatwithsql-gjaazhvqmdklvlpmkgreng.streamlit.app](https://chatwithsql-gjaazhvqmdklvlpmkgreng.streamlit.app/)
+
 This project serves as an educational reference, containing both a legacy implementation (`app.py`) and a modernized implementation (`appNewVersion.py`) to demonstrate how to use the latest stable LangChain ecosystem.
 
 ---
